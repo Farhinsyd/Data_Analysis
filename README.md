@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/pypi/pyversions/3?style=plastic)
 
 
-# Data Analysis Project using My Sql
+# Data Analysis Project using Python and My Sql
 
 This is a repository of teaching materials, code, and data for my data analysis learning projects.
 
